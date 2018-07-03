@@ -1,0 +1,42 @@
+
+#node
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# WebStorm
+.idea/
+
+# vi
+## vi Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+## vi Session
+Session.vim
+
+## vi Temporary
+.netrwhist
+*~
+## vi Auto-generated tag files
+tags
+
+# General
+log/
+*.log
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
